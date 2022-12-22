@@ -9,3 +9,4 @@ Założenia:
 Przydatne linki:
 - [Równania fali - zdyskretyzowane](https://www.slideshare.net/AmrMousa12/2-dimensional-wave-equation-analytical-and-numerical-solution)
 - [Falstad ripple](https://www.falstad.com/ripple/)
+- [Hinsud - tutorial](https://www.youtube.com/watch?v=O6fqBxuM-g8)
