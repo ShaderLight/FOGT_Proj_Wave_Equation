@@ -104,7 +104,7 @@ ny = fix(Ly/dy);
 x = linspace(0, Lx, nx);
 y = linspace(0, Ly, ny);
 
-T=60*8;
+T=60;
 
 wn=zeros(nx, ny);
 wnm1=wn; 
